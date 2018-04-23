@@ -3,7 +3,8 @@ var orderSum        = 5550
     ,discount       = 0
     ,vipClient      = true
     ,bonusCard      = 1000
-    ,promokod       = true;
+    ,promokod       = true
+    ,weekend        = true
     ;
 
     if(orderSum >= 450){
