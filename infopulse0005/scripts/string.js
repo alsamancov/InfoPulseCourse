@@ -43,4 +43,6 @@ console.log(message, newMessage);
 
 console.log("Random number is : ", randNum);
 
+console.log(holidays)
+
 

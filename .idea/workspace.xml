@@ -2,17 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9c07f555-021e-4cdb-aa3a-ed099fb71f9c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/infopulse0004hw/scripts/task01.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/infopulse0004hw/scripts/task02.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/infopulse0004hw/scripts/task03.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/infopulse0004hw/scripts/task04.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/infopulse0006/area.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/infopulse0006/date.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/infopulse0006/function.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/infopulse0006/script/date.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/infopulse0006/script/function.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/infopulse0006/script/square.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/infopulse0006hw/script/task01.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/infopulse0006hw/task01.html" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/infopulse0005/scripts/string.js" afterPath="$PROJECT_DIR$/infopulse0005/scripts/string.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -26,8 +19,8 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="task04.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/infopulse0004hw/task04.html">
+      <file leaf-file-name="task01.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/infopulse0004hw/task01.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -36,31 +29,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="string.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/infopulse0005/scripts/string.js">
+      <file leaf-file-name="task01.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/infopulse0004hw/scripts/task01.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="663">
-              <caret line="39" column="1" lean-forward="true" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="task.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/infopulse0005hw/task.txt">
+      <file leaf-file-name="array.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/infopulse0004/scripts/array.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="135" lean-forward="false" selection-start-line="5" selection-start-column="135" selection-end-line="5" selection-end-column="135" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="date.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/infopulse0006/date.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="29" lean-forward="false" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+            <state relative-caret-position="697">
+              <caret line="41" column="0" lean-forward="true" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -76,51 +59,61 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="function.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/infopulse0006/function.html">
+      <file leaf-file-name="loops.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/infopulse0004/scripts/loops.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+            <state relative-caret-position="425">
+              <caret line="25" column="26" lean-forward="true" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="function.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/infopulse0006/script/function.js">
+      <file leaf-file-name="string.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/infopulse0004/scripts/string.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="10" lean-forward="true" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+            <state relative-caret-position="374">
+              <caret line="22" column="18" lean-forward="true" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="square.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/infopulse0006/script/square.js">
+      <file leaf-file-name="loops.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/infopulse0003/scripts/loops.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="26" lean-forward="false" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+            <state relative-caret-position="433">
+              <caret line="67" column="34" lean-forward="false" selection-start-line="67" selection-start-column="34" selection-end-line="67" selection-end-column="34" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="area.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/infopulse0006/area.html">
+      <file leaf-file-name="conditions.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/infopulse0002/scripts/conditions.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="31" lean-forward="false" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+            <state relative-caret-position="680">
+              <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="string.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/infopulse0005/string.html">
+      <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/infopulse0002/scripts/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="16" lean-forward="false" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+            <state relative-caret-position="399">
+              <caret line="51" column="21" lean-forward="false" selection-start-line="51" selection-start-column="21" selection-end-line="51" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="task01.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/infopulse0006hw/script/task01.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="43" column="41" lean-forward="false" selection-start-line="43" selection-start-column="41" selection-end-line="43" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -131,8 +124,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -166,7 +159,6 @@
         <option value="$PROJECT_DIR$/infopulse0004hw/task02.html" />
         <option value="$PROJECT_DIR$/infopulse0004hw/scripts/task02.js" />
         <option value="$PROJECT_DIR$/infopulse0005/string.html" />
-        <option value="$PROJECT_DIR$/infopulse0005/scripts/string.js" />
         <option value="$PROJECT_DIR$/infopulse0005hw/task.txt" />
         <option value="$PROJECT_DIR$/infopulse0006/date.html" />
         <option value="$PROJECT_DIR$/infopulse0006/script/date.js" />
@@ -174,6 +166,9 @@
         <option value="$PROJECT_DIR$/infopulse0006/area.html" />
         <option value="$PROJECT_DIR$/infopulse0006/script/area.js" />
         <option value="$PROJECT_DIR$/infopulse0006/script/function.js" />
+        <option value="$PROJECT_DIR$/infopulse0006hw/task01.html" />
+        <option value="$PROJECT_DIR$/infopulse0005/scripts/string.js" />
+        <option value="$PROJECT_DIR$/infopulse0006hw/script/task01.js" />
       </list>
     </option>
   </component>
@@ -184,7 +179,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="793" />
+    <option name="x" value="2617" />
+    <option name="y" value="72" />
     <option name="width" value="814" />
     <option name="height" value="867" />
   </component>
@@ -203,22 +199,94 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="InfoPulseJS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="InfoPulseJS" type="462c0819:PsiDirectoryNode" />
+              <item name="InfoPulseCourse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InfoPulseCourse" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="InfoPulseJS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="InfoPulseJS" type="462c0819:PsiDirectoryNode" />
+              <item name="InfoPulseCourse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InfoPulseCourse" type="462c0819:PsiDirectoryNode" />
+              <item name="infopulse0002" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="InfoPulseCourse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InfoPulseCourse" type="462c0819:PsiDirectoryNode" />
+              <item name="infopulse0002" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="InfoPulseCourse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InfoPulseCourse" type="462c0819:PsiDirectoryNode" />
+              <item name="infopulse0003" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="InfoPulseCourse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InfoPulseCourse" type="462c0819:PsiDirectoryNode" />
+              <item name="infopulse0003" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="InfoPulseCourse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InfoPulseCourse" type="462c0819:PsiDirectoryNode" />
+              <item name="infopulse0004" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="InfoPulseCourse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InfoPulseCourse" type="462c0819:PsiDirectoryNode" />
+              <item name="infopulse0004" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="InfoPulseCourse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InfoPulseCourse" type="462c0819:PsiDirectoryNode" />
+              <item name="infopulse0004hw" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="InfoPulseCourse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InfoPulseCourse" type="462c0819:PsiDirectoryNode" />
+              <item name="infopulse0004hw" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="InfoPulseCourse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InfoPulseCourse" type="462c0819:PsiDirectoryNode" />
+              <item name="infopulse0005" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="InfoPulseCourse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InfoPulseCourse" type="462c0819:PsiDirectoryNode" />
+              <item name="infopulse0005" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="InfoPulseCourse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InfoPulseCourse" type="462c0819:PsiDirectoryNode" />
+              <item name="infopulse0005hw" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="InfoPulseCourse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InfoPulseCourse" type="462c0819:PsiDirectoryNode" />
               <item name="infopulse0006" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="InfoPulseJS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="InfoPulseJS" type="462c0819:PsiDirectoryNode" />
+              <item name="InfoPulseCourse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InfoPulseCourse" type="462c0819:PsiDirectoryNode" />
               <item name="infopulse0006" type="462c0819:PsiDirectoryNode" />
+              <item name="script" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="InfoPulseCourse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InfoPulseCourse" type="462c0819:PsiDirectoryNode" />
+              <item name="infopulse0006hw" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="InfoPulseCourse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InfoPulseCourse" type="462c0819:PsiDirectoryNode" />
+              <item name="infopulse0006hw" type="462c0819:PsiDirectoryNode" />
               <item name="script" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -226,7 +294,6 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -254,28 +321,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.function.js">
+  <component name="RunManager" selected="Node.js.task01.js">
     <configuration name="Unnamed" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="$PROJECT_DIR$" />
     <configuration name="area.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="$PROJECT_DIR$/infopulse0006/script/square.js" working-dir="$PROJECT_DIR$/infopulse0006/script" />
     <configuration name="date.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="date.js" working-dir="$PROJECT_DIR$/infopulse0006/script" />
     <configuration name="function.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="function.js" working-dir="$PROJECT_DIR$/infopulse0006/script" />
     <configuration name="string.js (1)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="string.js" working-dir="$PROJECT_DIR$/infopulse0005/scripts" />
-    <configuration name="string.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="string.js" working-dir="$PROJECT_DIR$/infopulse0004/scripts" />
+    <configuration name="task01.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="task01.js" working-dir="$PROJECT_DIR$/infopulse0006hw/script" />
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Node.js.Unnamed" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.string.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.string.js (1)" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.date.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.function.js" />
-      <item index="5" class="java.lang.String" itemvalue="Node.js.area.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.string.js (1)" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.date.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.function.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.area.js" />
+      <item index="5" class="java.lang.String" itemvalue="Node.js.task01.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.function.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.area.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.date.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.string.js (1)" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.string.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.task01.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.date.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.string.js (1)" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.function.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.area.js" />
       </list>
     </recent_temporary>
   </component>
@@ -302,6 +369,7 @@
       <workItem from="1525277556293" duration="1776000" />
       <workItem from="1525279387417" duration="5372000" />
       <workItem from="1525710267703" duration="5102000" />
+      <workItem from="1526297317480" duration="10034000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;commit with arrays&quot;">
       <created>1523900904740</created>
@@ -384,21 +452,21 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36708000" />
+    <option name="totallyTimeSpent" value="46742000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3079848" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19810326" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -445,20 +513,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/infopulse0002hw/publicservice.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="39" lean-forward="false" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/infopulse0002hw/scripts/publicservice.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/conditions.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -550,20 +604,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/infopulse0002/scripts/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="867">
-          <caret line="51" column="21" lean-forward="false" selection-start-line="51" selection-start-column="21" selection-end-line="51" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/infopulse0002/scripts/conditions.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/infopulse0002hw/scripts/publicservice.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -620,13 +660,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/infopulse0003/scripts/loops.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1139">
-          <caret line="67" column="34" lean-forward="false" selection-start-line="67" selection-start-column="34" selection-end-line="67" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/infopulse0003hw/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -641,13 +674,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/infopulse0004/scripts/loops.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="26" lean-forward="true" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/infopulse0004/array.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -655,25 +681,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/infopulse0004/scripts/array.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="697">
-          <caret line="41" column="0" lean-forward="true" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/infopulse0004/string.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="32" lean-forward="false" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/infopulse0004/scripts/string.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="18" lean-forward="true" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -695,7 +706,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="76" lean-forward="false" selection-start-line="13" selection-start-column="76" selection-end-line="13" selection-end-column="76" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -703,7 +713,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="36" lean-forward="false" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -711,15 +720,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/infopulse0004hw/scripts/task01.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -727,15 +727,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/infopulse0004hw/task01.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -755,18 +746,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/infopulse0005/scripts/string.js">
+    <entry file="file://$PROJECT_DIR$/infopulse0006/function.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="39" column="1" lean-forward="true" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
+        <state relative-caret-position="153">
+          <caret line="9" column="7" lean-forward="false" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/infopulse0005hw/task.txt">
+    <entry file="file://$PROJECT_DIR$/infopulse0006hw/task01.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="135" lean-forward="false" selection-start-line="5" selection-start-column="135" selection-end-line="5" selection-end-column="135" />
+        <state relative-caret-position="119">
+          <caret line="7" column="31" lean-forward="false" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
           <folding />
         </state>
       </provider>
@@ -779,26 +770,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/infopulse0006/script/date.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="70" lean-forward="true" selection-start-line="6" selection-start-column="70" selection-end-line="6" selection-end-column="70" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/infopulse0006/function.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/infopulse0006/area.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="31" lean-forward="false" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/infopulse0006/script/function.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="10" lean-forward="false" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
           <folding />
         </state>
       </provider>
@@ -811,10 +794,98 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/infopulse0006/script/function.js">
+    <entry file="file://$PROJECT_DIR$/infopulse0005/scripts/string.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="10" lean-forward="true" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+        <state relative-caret-position="765">
+          <caret line="45" column="20" lean-forward="false" selection-start-line="45" selection-start-column="20" selection-end-line="45" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/infopulse0005hw/task.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="135" lean-forward="false" selection-start-line="5" selection-start-column="135" selection-end-line="5" selection-end-column="135" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/infopulse0004hw/task01.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/infopulse0004hw/scripts/task01.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/infopulse0004/scripts/array.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="41" column="0" lean-forward="true" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/infopulse0004/scripts/loops.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="26" lean-forward="true" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/infopulse0004/scripts/string.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="18" lean-forward="true" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/infopulse0003/scripts/loops.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="67" column="34" lean-forward="false" selection-start-line="67" selection-start-column="34" selection-end-line="67" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/infopulse0002/scripts/conditions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/infopulse0002/scripts/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="51" column="21" lean-forward="false" selection-start-line="51" selection-start-column="21" selection-end-line="51" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/infopulse0006/script/date.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="70" lean-forward="true" selection-start-line="6" selection-start-column="70" selection-end-line="6" selection-end-column="70" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/infopulse0006hw/script/task01.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="43" column="41" lean-forward="false" selection-start-line="43" selection-start-column="41" selection-end-line="43" selection-end-column="41" />
           <folding />
         </state>
       </provider>
