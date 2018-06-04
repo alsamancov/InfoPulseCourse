@@ -2,19 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9c07f555-021e-4cdb-aa3a-ed099fb71f9c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/infopulse0010/calculator.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/infopulse0010/game.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/infopulse0010/images/paper.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/infopulse0010/images/rock.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/infopulse0010/images/scissors.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/infopulse0010/scripts/calculator.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/infopulse0010/scripts/game.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/infopulse0010/scripts/jquery-3.3.1.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/infopulse0010/scripts/weather.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/infopulse0010/weather.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/infopulse0010/images/clouds.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/infopulse0010/images/rain.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/infopulse0010/images/sun.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/infopulse0012/css/menu.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/infopulse0012/menu.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/infopulse0012/scripts/jquery-3.3.1.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/infopulse0012/scripts/menu.js" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/infopulse0007/scripts/lesson01.js" afterPath="$PROJECT_DIR$/infopulse0007/scripts/lesson01.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -28,103 +24,33 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="task01.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/infopulse0006hw/script/task01.js">
+      <file leaf-file-name="menu.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/infopulse0012/css/menu.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="731">
-              <caret line="43" column="41" lean-forward="false" selection-start-line="43" selection-start-column="41" selection-end-line="43" selection-end-column="41" />
+            <state relative-caret-position="357">
+              <caret line="30" column="1" lean-forward="true" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/infopulse0007hw/index.html">
+      <file leaf-file-name="menu.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/infopulse0012/menu.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
-              <caret line="7" column="47" lean-forward="false" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
+              <caret line="7" column="10" lean-forward="true" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="fuctions.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/infopulse0007hw/scripts/fuctions.js">
+      <file leaf-file-name="menu.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/infopulse0012/scripts/menu.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" column="4" lean-forward="false" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="lesson01.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/infopulse0007/scripts/lesson01.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="23" column="15" lean-forward="false" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="15" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="game.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/infopulse0010/game.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="game.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/infopulse0010/scripts/game.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="16" column="54" lean-forward="false" selection-start-line="16" selection-start-column="53" selection-end-line="16" selection-end-column="54" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="weather.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/infopulse0010/scripts/weather.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="663">
-              <caret line="39" column="77" lean-forward="false" selection-start-line="39" selection-start-column="77" selection-end-line="39" selection-end-column="77" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="weather.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/infopulse0010/weather.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="53" lean-forward="true" selection-start-line="19" selection-start-column="53" selection-end-line="19" selection-end-column="53" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="calculator.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/infopulse0010/calculator.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="31" column="50" lean-forward="false" selection-start-line="31" selection-start-column="50" selection-end-line="31" selection-end-column="50" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="calculator.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/infopulse0010/scripts/calculator.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="40" column="33" lean-forward="false" selection-start-line="40" selection-start-column="33" selection-end-line="40" selection-end-column="33" />
+            <state relative-caret-position="357">
+              <caret line="27" column="43" lean-forward="true" selection-start-line="27" selection-start-column="43" selection-end-line="27" selection-end-column="43" />
               <folding>
-                <element signature="n#!!block;n#calculator#0" expanded="false" />
+                <element signature="n#!!doc" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -139,6 +65,14 @@
         <option value="JavaScript File" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>this</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>m</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -189,6 +123,14 @@
         <option value="$PROJECT_DIR$/infopulse0010/scripts/weather.js" />
         <option value="$PROJECT_DIR$/infopulse0010/calculator.html" />
         <option value="$PROJECT_DIR$/infopulse0010/scripts/calculator.js" />
+        <option value="$PROJECT_DIR$/infopulse0011/scripts/calculator.js" />
+        <option value="$PROJECT_DIR$/infopulse0011/scripts/game.js" />
+        <option value="$PROJECT_DIR$/infopulse0011/game.html" />
+        <option value="$PROJECT_DIR$/infopulse0011/changeStyles.html" />
+        <option value="$PROJECT_DIR$/infopulse0011/scripts/changeStyles.js" />
+        <option value="$PROJECT_DIR$/infopulse0012/menu.html" />
+        <option value="$PROJECT_DIR$/infopulse0012/css/menu.css" />
+        <option value="$PROJECT_DIR$/infopulse0012/scripts/menu.js" />
       </list>
     </option>
   </component>
@@ -199,8 +141,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-188" />
-    <option name="y" value="31" />
+    <option name="x" value="2747" />
+    <option name="y" value="137" />
     <option name="width" value="814" />
     <option name="height" value="867" />
   </component>
@@ -230,12 +172,23 @@
             <path>
               <item name="InfoPulseCourse" type="b2602c69:ProjectViewProjectNode" />
               <item name="InfoPulseCourse" type="462c0819:PsiDirectoryNode" />
-              <item name="infopulse0010" type="462c0819:PsiDirectoryNode" />
+              <item name="infopulse0011" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="InfoPulseCourse" type="b2602c69:ProjectViewProjectNode" />
               <item name="InfoPulseCourse" type="462c0819:PsiDirectoryNode" />
-              <item name="infopulse0010" type="462c0819:PsiDirectoryNode" />
+              <item name="infopulse0011" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="InfoPulseCourse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InfoPulseCourse" type="462c0819:PsiDirectoryNode" />
+              <item name="infopulse0012" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="InfoPulseCourse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InfoPulseCourse" type="462c0819:PsiDirectoryNode" />
+              <item name="infopulse0012" type="462c0819:PsiDirectoryNode" />
               <item name="scripts" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -248,14 +201,21 @@
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/infopulse0011" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\JSProjects\InfoPulseJS\infopulse0004hw" />
-      <recent name="E:\JSProjects\InfoPulseJS\infopulse0004hw\scripts" />
+      <recent name="D:\myFiles\MyJSProjects\InfoPulseCourse\InfoPulseCourse\infopulse0012\scripts" />
+      <recent name="D:\myFiles\MyJSProjects\InfoPulseCourse\InfoPulseCourse\infopulse0012" />
+      <recent name="D:\myFiles\MyJSProjects\InfoPulseCourse\InfoPulseCourse\infopulse0012\css" />
+      <recent name="D:\myFiles\MyJSProjects\InfoPulseCourse\InfoPulseCourse\infopulse0011\css" />
+      <recent name="D:\myFiles\MyJSProjects\InfoPulseCourse\InfoPulseCourse\infopulse0011" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\myFiles\MyJSProjects\InfoPulseCourse\InfoPulseCourse\infopulse0010" />
+      <recent name="D:\myFiles\MyJSProjects\InfoPulseCourse\InfoPulseCourse\infopulse0011\scripts" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -270,28 +230,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.lesson01.js">
+  <component name="RunManager" selected="Node.js.menu.js">
     <configuration name="Unnamed" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="$PROJECT_DIR$" />
-    <configuration name="date.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="date.js" working-dir="$PROJECT_DIR$/infopulse0006/script" />
+    <configuration name="changeStyles.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="changeStyles.js" working-dir="$PROJECT_DIR$/infopulse0011/scripts" />
     <configuration name="fuctions.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="fuctions.js" working-dir="$PROJECT_DIR$/infopulse0007hw/scripts" />
     <configuration name="lesson01.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="lesson01.js" working-dir="$PROJECT_DIR$/infopulse0007/scripts" />
-    <configuration name="string.js (1)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="string.js" working-dir="$PROJECT_DIR$/infopulse0005/scripts" />
+    <configuration name="menu.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="menu.js" working-dir="$PROJECT_DIR$/infopulse0012/scripts" />
     <configuration name="task01.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="task01.js" working-dir="$PROJECT_DIR$/infopulse0006hw/script" />
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Node.js.Unnamed" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.string.js (1)" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.date.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.task01.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.fuctions.js" />
-      <item index="5" class="java.lang.String" itemvalue="Node.js.lesson01.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.task01.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.fuctions.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.lesson01.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.changeStyles.js" />
+      <item index="5" class="java.lang.String" itemvalue="Node.js.menu.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.lesson01.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.fuctions.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.task01.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.date.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.string.js (1)" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.menu.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.changeStyles.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.lesson01.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.fuctions.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.task01.js" />
       </list>
     </recent_temporary>
   </component>
@@ -320,7 +280,10 @@
       <workItem from="1525710267703" duration="5102000" />
       <workItem from="1526297317480" duration="10331000" />
       <workItem from="1526479841164" duration="3316000" />
-      <workItem from="1527089136302" duration="7058000" />
+      <workItem from="1527089136302" duration="7178000" />
+      <workItem from="1527517528043" duration="605000" />
+      <workItem from="1527695799450" duration="7500000" />
+      <workItem from="1528129421822" duration="5289000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;commit with arrays&quot;">
       <created>1523900904740</created>
@@ -413,21 +376,36 @@
       <option name="project" value="LOCAL" />
       <updated>1526482457128</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="&quot;lesson 10 class work commit&quot;">
+      <created>1527146688889</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1527146688889</updated>
+    </task>
+    <task id="LOCAL-00015" summary="&quot;lesson 11 class work commit&quot;">
+      <created>1527749734946</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1527749734946</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57413000" />
+    <option name="totallyTimeSpent" value="70927000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19810326" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22921109" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -436,7 +414,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -455,7 +432,9 @@
     <MESSAGE value="&quot;lesson 5 final commit&quot;" />
     <MESSAGE value="&quot;lesson 6 home work commit&quot;" />
     <MESSAGE value="&quot;lesson 7 home work commit&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;lesson 7 home work commit&quot;" />
+    <MESSAGE value="&quot;lesson 10 class work commit&quot;" />
+    <MESSAGE value="&quot;lesson 11 class work commit&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;lesson 11 class work commit&quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -480,97 +459,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/infopulse0001/scripts/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="48" lean-forward="true" selection-start-line="24" selection-start-column="48" selection-end-line="24" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/infopulse0001/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/infopulse0001/scripts/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="46" lean-forward="false" selection-start-line="29" selection-start-column="46" selection-end-line="29" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/infopulse0002hw/scripts/publicservice.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/infopulse0002hw/educenter.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="35" lean-forward="false" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/infopulse0002hw/publicservice.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="39" lean-forward="false" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/infopulse0002/conditions.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="21" lean-forward="false" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/infopulse0002/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="41" lean-forward="false" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/conditions.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/infopulse0002hw/scripts/educenter.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="5" lean-forward="false" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/infopulse0003/loops.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="35" lean-forward="false" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/infopulse0003hw/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/infopulse0003hw/scripts/loops.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/infopulse0004/array.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -687,7 +575,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="765">
           <caret line="45" column="20" lean-forward="false" selection-start-line="45" selection-start-column="20" selection-end-line="45" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -723,7 +610,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
           <caret line="25" column="26" lean-forward="false" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -731,7 +617,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="22" column="18" lean-forward="false" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -739,7 +624,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1139">
           <caret line="67" column="34" lean-forward="false" selection-start-line="67" selection-start-column="34" selection-end-line="67" selection-end-column="34" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -747,7 +631,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="680">
           <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -755,7 +638,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="867">
           <caret line="51" column="21" lean-forward="false" selection-start-line="51" selection-start-column="21" selection-end-line="51" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -763,7 +645,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="6" column="70" lean-forward="false" selection-start-line="6" selection-start-column="70" selection-end-line="6" selection-end-column="70" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -771,7 +652,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="731">
           <caret line="43" column="41" lean-forward="false" selection-start-line="43" selection-start-column="41" selection-end-line="43" selection-end-column="41" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -779,7 +659,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="47" lean-forward="false" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -787,31 +666,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
           <caret line="26" column="4" lean-forward="false" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/infopulse0007/scripts/lesson01.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
+        <state relative-caret-position="0">
           <caret line="23" column="15" lean-forward="false" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/infopulse0010/game.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
-          <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
-          <folding />
+          <caret line="11" column="14" lean-forward="false" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/infopulse0010/scripts/game.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
+        <state relative-caret-position="272">
           <caret line="16" column="54" lean-forward="false" selection-start-line="16" selection-start-column="53" selection-end-line="16" selection-end-column="54" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -827,16 +702,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/infopulse0010/weather.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
-          <caret line="19" column="53" lean-forward="true" selection-start-line="19" selection-start-column="53" selection-end-line="19" selection-end-column="53" />
+          <caret line="19" column="53" lean-forward="false" selection-start-line="19" selection-start-column="53" selection-end-line="19" selection-end-column="53" />
           <folding />
         </state>
       </provider>
@@ -845,9 +717,43 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="40" column="33" lean-forward="false" selection-start-line="40" selection-start-column="33" selection-end-line="40" selection-end-column="33" />
-          <folding>
-            <element signature="n#!!block;n#calculator#0" expanded="false" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/infopulse0011/scripts/jquery-3.3.1.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="14911" column="12" lean-forward="false" selection-start-line="14911" selection-start-column="12" selection-end-line="14911" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/infopulse0011/calculator.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="18" column="52" lean-forward="false" selection-start-line="18" selection-start-column="52" selection-end-line="18" selection-end-column="52" />
+          <caret line="18" column="53" lean-forward="false" selection-start-line="18" selection-start-column="52" selection-end-line="18" selection-end-column="53" />
+          <caret line="19" column="53" lean-forward="false" selection-start-line="19" selection-start-column="52" selection-end-line="19" selection-end-column="53" />
+          <caret line="20" column="53" lean-forward="false" selection-start-line="20" selection-start-column="52" selection-end-line="20" selection-end-column="53" />
+          <caret line="21" column="53" lean-forward="false" selection-start-line="21" selection-start-column="52" selection-end-line="21" selection-end-column="53" />
+          <caret line="22" column="53" lean-forward="false" selection-start-line="22" selection-start-column="52" selection-end-line="22" selection-end-column="53" />
+          <caret line="23" column="53" lean-forward="false" selection-start-line="23" selection-start-column="52" selection-end-line="23" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/infopulse0011/game.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="32" lean-forward="false" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -856,6 +762,80 @@
         <state relative-caret-position="527">
           <caret line="31" column="50" lean-forward="false" selection-start-line="31" selection-start-column="50" selection-end-line="31" selection-end-column="50" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/infopulse0011/scripts/game.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/infopulse0011/scripts/calculator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="39" lean-forward="false" selection-start-line="34" selection-start-column="39" selection-end-line="34" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/infopulse0011/changeStyles.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="36" lean-forward="true" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/infopulse0011/scripts/changeStyles.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="54" lean-forward="false" selection-start-line="6" selection-start-column="54" selection-end-line="6" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/infopulse0011/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/infopulse0012/scripts/jquery-3.3.1.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/infopulse0012/css/menu.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="30" column="1" lean-forward="true" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/infopulse0012/menu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="10" lean-forward="true" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/infopulse0012/scripts/menu.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="27" column="43" lean-forward="true" selection-start-line="27" selection-start-column="43" selection-end-line="27" selection-end-column="43" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
