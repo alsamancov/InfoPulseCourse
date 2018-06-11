@@ -1,0 +1,32 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title></title>
+		<meta charset='UTF-8'>
+		<link rel='stylesheet' href='css/hw13.css'>
+	</head>
+	<body>
+		<div class="calculation" id="calculation">
+				<label class='label_weight'>Вес:</label>
+				<br><input type='text' name='weight' class='weight' placeholder="" value="">
+				<br><label class='label_height'>Рост:</label>
+				<br><input type='text' name='height' class='height' placeholder="" value="">
+				<br><label class='label_sex'>Пол:</label>
+				<br><select class="sex">
+					<option value="male">Мужской</option>
+					<option value="female">Женский</option>
+				</select>
+				<br>
+				<br><input type="button" value="OK" name="" class="okBtn">
+				<br>
+				<br><input type="text" value="Результат" name="" class="result">
+				<br><div class="message"></div>
+			<script src="scripts/jquery-3.3.1.min.js"></script>
+			<script src="scripts/hw13.js"></script>
+			<!-- <script src="scripts/function.js"></script> -->
+				<script>
+					var calculation = new Calculation("#calculation");
+				</script>
+		</div>
+	</body>
+</html>
