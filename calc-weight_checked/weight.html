@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+<html>
+	<head>
+		<title></title>
+		<meta charset="utf-8">
+		<!-- <link rel="stylesheet" href="css/cals.css">  -->
+	</head>
+	<body>
+		
+			<div class='create_dinner'>
+				<h1 class='heading'>Ваша ідеальна вага</h1>
+				<br>	
+			</div>
+			<div class=ideal_weight id='form1'>
+				<form method='get' >
+					<select name="" class='gender'>
+						<option value="male">Чоловік</option>
+						<option value="female">Жінка</option>
+					</select>
+					<input type="text" class='height' placeholder="Ваш ріст(см)">	
+					<input type="text" class='weight' placeholder="Ваша вага(кг)">
+					<button class='button' id='calc'>Розрахувати</button>					
+				</form>
+				<p class="message" id="message" style="display: none"></p>
+				<p class="review" id="review" style="display: none"></p>
+			</div>
+		<script src="scripts/jquery-3.3.1.min.js"></script>
+		<script src="scripts/weight.js"></script>
+		<script>
+			var form1 = new Form("#form1");
+		</script>
+	</body>
+</html>
