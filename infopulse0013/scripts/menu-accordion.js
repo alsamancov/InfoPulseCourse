@@ -40,12 +40,19 @@ function Menu(sSelector) {
             });
     }
 
+    m.showHideMenu = function (event) {
+        event.preventDefault();
+        m.menuItems.children("ul").stop().slideUp();
+        $(this).children("ul").stop().slideToggle();
+    }
+
     //events
     // m.menuItems.mouseover(m.showMenu);
     // m.menuItems.mouseout(m.hideMenu);
 
-        .mouseover(m.showMenu)
-        .mouseout(m.hideMenu);
+        // .mouseover(m.showMenu)
+        // .mouseout(m.hideMenu);
+    m.menuItems.click(m.showHideMenu);
 }
 
 
