@@ -1,0 +1,57 @@
+<textarea></textarea> <input>
+.val()
+
+<img src="">
+.attr()
+
+<a href="#"></a>
+.text()
+
+<div></div>
+.html()
+
+<ul class=""></ul>
+.addClass()
+
+скрытый див с формой
+.show()
+.addClass()
+.slideDown()
+.animate()
+.css()
+
+<ul class=""></ul>
+.removeClass()
+
+"btn btn-small btn-red"
+.split(" ")
+
+класс Проектор:
+ мощность
+ яркость
+ размер
+ цена
+ ...
+
+ вкл
+ выкл
+ отображать
+
+
+function Projector(){
+ var p = this;
+
+ p.price = ...
+ p.btn
+
+ p.start = function(){
+  p.display();
+ }
+
+ p.display = function(){}
+
+ p.btn.click(p.start);
+}
+
+var p1 = new Projector();
+console.log(p1.price);
