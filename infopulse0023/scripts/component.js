@@ -10,8 +10,7 @@ function Component(){
 	}
 	
 	this.copyData = function(oSource,oDestination, aFieldNames){
-		/*console.log('oSourceElemant:',oSource);*/
-		/*console.log('oDestinationElement:',oDestination);*/
+		
 		
 		$.each(aFieldNames, function(i,fieldName){
 			var  oSourceElement 	 = oSource.find(fieldName)
@@ -19,7 +18,7 @@ function Component(){
 				,tagName             = oSourceElement.prop('tagName')
 			;
 			
-			console.log('oDestinationElement.attr:',oDestinationElement.attr('src'));
+			
 			
 			if(tagName == 'IMG'){
 				oDestinationElement.attr(
@@ -41,12 +40,9 @@ function Component(){
 				
 			}
 			
-			/*console.log('oSourceElemant.attr: ',oSourceElement.attr('src'));
-			console.log('oDestinationElement.attr:',oDestinationElement.attr('src'));
-			console.log('tagName: ', tagName);*/
+			
 			
 		})
-		console.log('oSourceElemant:',oSource);
-		console.log('oDestinationElement:',oDestination);
+		
 	}
 }

@@ -24,15 +24,11 @@ function Cart(sSelector,sCartSelector){
 		currentGood = orderForm.closest('.b-good');
 		var addedGood = c.put(currentGood);
 		
-		console.log("orderForm", orderForm);
-		console.log("addedGood.getId():", addedGood.getId());
-		
+			
 		
 		c.goods[addedGood.getId()] = orderForm.find('.b-order-form__quantity').val();
 		
-		$.cookie('cartGoods',c.goods,
-		{"expires":7,"path":"/"});
-		c.list.stop().slideDown();
+		c.saveCookie();
 	};
 	c.put  =  function(oCurrentGood){
 		var addedGood = new Good(oCurrentGood);
@@ -57,6 +53,9 @@ function Cart(sSelector,sCartSelector){
 			,'.b-order-form__quantity'
 			]);
 			/*console.log(newGood);*/
+			
+			newGood.find('.b-good__delete').click(c.del);
+			
 			c.list.find('.b-goods').append(newGood);
 			return addedGood;
 		
@@ -66,24 +65,57 @@ function Cart(sSelector,sCartSelector){
 	};
 	c.load =  function(){
 		c.goods = $.cookie('cartGoods');
-		console.log(c.goods);
+	
+		console.log('c.goods:',c.goods);
 		if(c.goods){
-			$.each(c.goods, function (goodId, quantity) {
-				var currentGood = c.find('.b-good_id' + goodId);
-				currentGood.find('.b-order-form__quantity').val(quantity);
+			$.each(c.goods,function(goodId,quantity){
+				var currentGood = c.findObj('.b-good_id_' + goodId);
+				currentGood.find('.b_order-form__quantity').val(quantity);
 				c.put(currentGood);
-            })
+			})
 		}
 		else{
 			c.goods = {};
 		}
 	};
-	c.showHideCart = function(){};
+	c.showHideCart = function(){
+		c.list.slideToggle();
+	};
 	c.changeQuantity = function(){};
-	c.del = function(){};
-	c.showCartInfo = function(){};
+	c.del = function(event){
+		event.preventDefault();
+		var currentGood = $(this).closest('.b-good')
+		   ,goodDel = new Good(currentGood)
+		   ,goodId = goodDel.getId();
+		  
+		 console.log('goodId:', goodId);
+		 currentGood.remove(); 
+		 
+		 c.cart.find('b-good_id_'+goodId).removeClass('b-good_in-cart');
+		 // delete from cookie
+		 delete c.goods[goodId];
+		c.saveCookie();
+		  
+	};
+	
+	c.saveCookie = function(){
+		$.cookie('cartGoods',c.goods,
+		{"expires":7,"path":"/"});
+		c.list.stop().slideDown();
+	};
+	c.showCartInfo = function(){
+        var qty	 	= 0
+            ,total 	= 0
+        ;
+        $.each(c.goods, function (goodsId, goodsQty) {
+			qty += + goodsQty;
+			total += + c.findObj(".b-good_id_" + goodsId + " .b-good__price");
+        	"b-good_id_" +
+        })
+	};
 	
 	c.load();
+	c.button.click(c.showHideCart);
 	
 	c.findObj('.b-order-form').submit(c.add);
 	
